@@ -27,6 +27,7 @@ Verifying playbooks
 ansible-lint
 
 Playbook syntax
+cron job is excuted sucessfully on jenkins dashboard. Thank you
 
   - name: Write the apache config file
     ansible.builtin.template:
